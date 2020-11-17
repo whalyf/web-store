@@ -9,7 +9,7 @@ import Header from '../../../components/Header/Header'
 export default function Vestuario(val){
     console.log('VALOR DA SELECAO:', val.location.state)
     const tamanho = val.location.state
-    const pvalor = 22.5
+    const pvalor = 'XX'
 /*     const mvalor = 25.5
     const gvalor = 28.5
     const ggvalor = 32.5 */
