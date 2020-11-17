@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Stalinist+One&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Notable&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -8,17 +7,16 @@
 }
 
 body{
-    font:400 14px Stalinist, sans-serif;
+    font:400 14px 'Notable', sans-serif;
     background-color: #f0f0ff;
     -webkit-font-smoothing: antialiased;
 }
 
 input, button, textarea{
-    font:400 18px Stalinist, sans-serif;
+    font:400 18px 'Notable', sans-serif;
 
 }
 
 button{
     cursor: pointer;
 }
-
