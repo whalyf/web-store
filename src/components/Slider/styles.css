@@ -1,0 +1,17 @@
+.dimensions{ 
+    width: 1140px;
+    margin: auto;
+}
+
+.dimensions .each-slide {
+    margin-left: 20px;
+}
+
+.dimensions .each-slide div{
+    width: 1140px;
+    height: 295px;
+}
+
+.dimensions .each-slide span{
+    display:none
+}
