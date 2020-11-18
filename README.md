@@ -1,6 +1,6 @@
 <div align="center">
     <h1> 
-    <img src="/gitImages/logo.png" style="width=150px"  alt="logo">
+    <img src="/gitImages/logo.png" style="max-width=50px"  alt="logo">
     </h1>
     <a href="/LICENSE">
         <img src="/gitImages/mit.svg" alt="LICENSE_MIT">
