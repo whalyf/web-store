@@ -19,7 +19,7 @@
 </ul>
 
 <h2>Projeto</h2>
-<p>O <strong> Oxe, Toca Raul </strong> é um front-end básico construído em ReactJs para servir de vitrine a alguns produtos, possui links para redirecionamento a mídia social e contato direto com o vendedor via Whatsapp</p>
+<p>O <strong><a href="http://oxe-toca-raul.herokuapp.com/">Oxe, Toca Raul </a></strong> está online em modo de produção e se trata de um front-end básico construído em ReactJs para servir de vitrine a alguns produtos, possui links para redirecionamento a mídia social e contato direto com o vendedor via Whatsapp</p>
 
 <div align="center">
     <h3>Tela Inicial</h3>
