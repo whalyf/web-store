@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-    <a href="http://oxe-toca-raul.herokuapp.com/">
+    <a target="_blank" href="http://oxe-toca-raul.herokuapp.com/" rel="noopener noreferrer">
     <img src="/gitImages/logo.png" style="max-width:100%;" alt="logo">
     </a>
     </h1>
@@ -19,7 +19,7 @@
 </ul>
 
 <h2>Projeto</h2>
-<p>O <strong><a href="http://oxe-toca-raul.herokuapp.com/">Oxe, Toca Raul </a></strong> está online em modo de produção e se trata de um front-end básico construído em ReactJs para servir de vitrine a alguns produtos, possui links para redirecionamento a mídia social e contato direto com o vendedor via Whatsapp</p>
+<p>O <strong><a target="_blank" href="http://oxe-toca-raul.herokuapp.com/" rel="noopener noreferrer">Oxe, Toca Raul </a></strong> está online em modo de produção e se trata de um front-end básico construído em ReactJs para servir de vitrine a alguns produtos, possui links para redirecionamento a mídia social e contato direto com o vendedor via Whatsapp</p>
 
 <div align="center">
     <h3>Tela Inicial</h3>
