@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-    <a target="_blank" href="http://oxe-toca-raul.herokuapp.com/" rel="noopener noreferrer">
+    <a target="_blank" href="" rel="noopener noreferrer">
     <img src="/gitImages/logo.png" style="max-width:100%;" alt="logo">
     </a>
     </h1>
